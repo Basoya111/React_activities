@@ -1,0 +1,9 @@
+C:\Users\bhask\Desktop\React_activities\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\bhask\Desktop\React_activities\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\bhask\Desktop\React_activities\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\bhask\Desktop\React_activities\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\bhask\Desktop\React_activities\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\bhask\Desktop\React_activities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\bhask\Desktop\React_activities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\bhask\Desktop\React_activities\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\bhask\Desktop\React_activities\Domain\obj\Debug\netstandard2.0\Domain.pdb

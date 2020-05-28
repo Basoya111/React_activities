@@ -1,0 +1,12 @@
+C:\Users\bhask\Desktop\React_activities\persistence\bin\Debug\netstandard2.0\persistence.deps.json
+C:\Users\bhask\Desktop\React_activities\persistence\bin\Debug\netstandard2.0\persistence.dll
+C:\Users\bhask\Desktop\React_activities\persistence\bin\Debug\netstandard2.0\persistence.pdb
+C:\Users\bhask\Desktop\React_activities\persistence\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\bhask\Desktop\React_activities\persistence\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\bhask\Desktop\React_activities\persistence\obj\Debug\netstandard2.0\persistence.csprojAssemblyReference.cache
+C:\Users\bhask\Desktop\React_activities\persistence\obj\Debug\netstandard2.0\persistence.csproj.CoreCompileInputs.cache
+C:\Users\bhask\Desktop\React_activities\persistence\obj\Debug\netstandard2.0\persistence.AssemblyInfoInputs.cache
+C:\Users\bhask\Desktop\React_activities\persistence\obj\Debug\netstandard2.0\persistence.AssemblyInfo.cs
+C:\Users\bhask\Desktop\React_activities\persistence\obj\Debug\netstandard2.0\persistence.csproj.CopyComplete
+C:\Users\bhask\Desktop\React_activities\persistence\obj\Debug\netstandard2.0\persistence.dll
+C:\Users\bhask\Desktop\React_activities\persistence\obj\Debug\netstandard2.0\persistence.pdb

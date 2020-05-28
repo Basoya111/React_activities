@@ -1,0 +1,14 @@
+C:\Users\bhask\Desktop\React_activities\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\bhask\Desktop\React_activities\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Users\bhask\Desktop\React_activities\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\bhask\Desktop\React_activities\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\bhask\Desktop\React_activities\Application\bin\Debug\netstandard2.0\persistence.dll
+C:\Users\bhask\Desktop\React_activities\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\bhask\Desktop\React_activities\Application\bin\Debug\netstandard2.0\persistence.pdb
+C:\Users\bhask\Desktop\React_activities\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Users\bhask\Desktop\React_activities\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\bhask\Desktop\React_activities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\bhask\Desktop\React_activities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\bhask\Desktop\React_activities\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Users\bhask\Desktop\React_activities\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Users\bhask\Desktop\React_activities\Application\obj\Debug\netstandard2.0\Application.pdb
